@@ -11,4 +11,4 @@ I love to share my knowledge and insights about AI, machine learning, and my PhD
 
 ### Get in Touch
 
-I'm always open to collaborating on projects, discussing research ideas, or just chatting about the latest in tech and/or how your day has been. Feel free to connect with me on X[https://twitter.com/ms_bhosale] or [Linkedin](https://www.linkedin.com/in/maheshsbhosale/)
+I'm always open to collaborating on projects, discussing research ideas, or just chatting about the latest in tech and/or how your day has been. Feel free to connect with me on X [https://twitter.com/ms_bhosale] or [Linkedin](https://www.linkedin.com/in/maheshsbhosale/)
