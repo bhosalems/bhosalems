@@ -1,5 +1,5 @@
 
-###Hello there! 👋 I'm Mahesh, some endearingly often call me Maahi, much like the mahi-mahi fish — but thankfully, I'm better at coding than swimming! I am a PhD student in Computer Science at the [Artificial Intelligence Innovation Laboratory (A2IL)](https://www.buffalo.edu/ai-data-science/research/organizations/innovation-lab.html) at the [University at Buffalo](https://www.buffalo.edu/). 
+<h3><span style="font-size: 24px;">Hello</span> there!</h3> 👋 I'm Mahesh, some endearingly often call me Maahi, much like the mahi-mahi fish — but thankfully, I'm better at coding than swimming! I am a PhD student in Computer Science at the [Artificial Intelligence Innovation Laboratory (A2IL)](https://www.buffalo.edu/ai-data-science/research/organizations/innovation-lab.html) at the [University at Buffalo](https://www.buffalo.edu/). 
 
 Much like our brain relies on a perceptual system to interpret visual stimuli, my work revolves around developing a similar perceptual framework for neural networks, enabling them to 'see' and understand the world around them. I am working on the following areas of research at the moment -
 1. Generative modeling for Biomedical images and videos such as - MRI, CT, X-ray, Histopathology, and Endoscopy videos.
