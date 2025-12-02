@@ -12,4 +12,4 @@ I love to share my knowledge and insights about AI, machine learning, and my PhD
 
 ### Get in Touch
 
-Please find my CV [here](https://github.com/bhosalems/Resume/blob/main/Mahesh_Bhosale_CV.pdf). I'm usually open to collaborating on projects, discussing research ideas, or just chatting about the latest in tech and/or how your day has been. Feel free to connect with me on [X](https://twitter.com/ms_bhosale) or [Linkedin](https://www.linkedin.com/in/maheshsbhosale/)
+Please find my CV [here](https://drive.google.com/file/d/1K9RqFB2MLGquB09fmstdz4u1DrxXYGDS/view?usp=drive_link). I'm usually open to collaborating on projects, discussing research ideas, or just chatting about the latest in tech and/or how your day has been. Feel free to connect with me on [X](https://twitter.com/ms_bhosale) or [Linkedin](https://www.linkedin.com/in/maheshsbhosale/)
