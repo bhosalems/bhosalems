@@ -1,7 +1,7 @@
 
 Hello there! 👋 I'm Mahesh, some endearingly often call me Maahi, much like the mahi-mahi fish but thankfully, I'm better at coding than swimming! I am a PhD student in Computer Science at [Artificial Intelligence Innovation Laboratory (A2IL)](https://www.buffalo.edu/ai-data-science/research/organizations/innovation-lab.html) in the [University at Buffalo](https://www.buffalo.edu/). 
 
-Much like our brain relies on a perceptual system to interpret visual stimuli, my work revolves around developing a similar perceptual framework for neural networks, enabling them to 'see' and understand the world around them. I am working on the following areas of research at the moment -
+I am working on the following areas of research at the moment -
 1. Problems relating to multimodal generative models including Diffusion, Flow and Consistency Models, MultiModal Large Language Models for images and videos.
 2. Problems I have worked on before : Unified image generation from unpaired conditions, Fairness issues of MLLMs, Hallucinations in Difussion Models.
 ### Blog
